@@ -1,2 +1,2 @@
-# aguirrelab
+# aguirre-lab
 Aguirre Lab repository
